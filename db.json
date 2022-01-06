@@ -2,11 +2,11 @@
  "food":  [
      {
       "id": 1,
-      "name": "sushi",
+      "name": "sushi"
     },
     {
       "id": 2,
-      "body": "pizza",
+      "body": "pizza"
     }
  ]
 }
